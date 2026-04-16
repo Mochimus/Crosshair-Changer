@@ -1,9 +1,11 @@
-# Data Center Crosshair
+# Crosshair-Changer
 
-MelonLoader **0.7.x** **IL2CPP** mod for **Data Center** (Steam). Adjusts the HUD reticle and the bandwidth / pointer readout under the crosshair.
+MelonLoader **0.7.x** **IL2CPP** mod for **Data Center** (Steam): change crosshair size and color, style the pointer bandwidth label, and optional panel behind the text.
 
 **Author:** Mochimus  
 **Version:** 0.1.0
+
+Repository: [https://github.com/Mochimus/Crosshair-Changer](https://github.com/Mochimus/Crosshair-Changer)
 
 ## Features
 
