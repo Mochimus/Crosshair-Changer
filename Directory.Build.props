@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <!-- Override locally if your install differs -->
+    <DataCenterGameDir Condition="'$(DataCenterGameDir)' == ''">D:\Steam\steamapps\common\Data Center</DataCenterGameDir>
+    <MelonLoaderNet6Dir>$(DataCenterGameDir)\MelonLoader\net6</MelonLoaderNet6Dir>
+    <Il2CppInteropAssembliesDir Condition="'$(Il2CppInteropAssembliesDir)' == ''">$(DataCenterGameDir)\MelonLoader\Il2CppAssemblies</Il2CppInteropAssembliesDir>
+  </PropertyGroup>
+</Project>
